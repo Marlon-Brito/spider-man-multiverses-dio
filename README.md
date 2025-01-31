@@ -1,6 +1,6 @@
 # Spiderman Multiversos
 
-Spiderman Multiversos é um site feito no Bootcamp Front-end do Zero Ri Happy da DIO, sendo uma interface com muitas animações e interatividade homenageando o filme "Homem-Aranha: Sem Volta para Casa". Desenvolvido em HTML, CSS e JS.
+**Spiderman Multiversos** é um site feito no Bootcamp Front-end do Zero Ri Happy da DIO, sendo uma interface com muitas animações e interatividade homenageando o filme "Homem-Aranha: Sem Volta para Casa". Desenvolvido em HTML, CSS e JS.
 
 ## 🛠️ Tecnologias Utilizadas
 
