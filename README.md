@@ -22,4 +22,4 @@
    Rode o arquivo **index.html** em qualquer navegador para ver a execução do projeto.
 
 ## 🖥️ Deploy
-[Clique aqui para ver a implementação do site]([https://marlon-brito.github.io/portfolio2/](https://marlon-brito.github.io/spider-man-multiversos-dio/)).
+[Clique aqui para ver a implementação do site]([https://marlon-brito.github.io/portfolio2/](https://marlon-brito.github.io/spider-man-multiversos-dio/).
